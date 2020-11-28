@@ -1,0 +1,1 @@
+final List<dynamic> styles = ['.board {\r\n    width: 500px;\r\n    height: 512px;\r\n    border-left: 90px;\r\n    margin-inline: auto;\r\n    position: relative;\r\n}\r\n\r\nimg {\r\n    max-width: 100%;\r\n    max-height: 100%\r\n}\r\n\r\n.name {\r\n    width:464px;\r\n    margin-inline: auto;\r\n    font-size: large;\r\n    color: red;\r\n    text-align: center;\r\n}'];

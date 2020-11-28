@@ -1,0 +1,1 @@
+final List<dynamic> styles = ['.button {\r\n    background-color: green;\r\n    color: white;\r\n    text-align: center;\r\n    display: inline-block;\r\n    border-radius: 100%;\r\n    position: absolute;\r\n}'];

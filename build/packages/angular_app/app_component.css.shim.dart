@@ -1,0 +1,1 @@
+final List<dynamic> styles = ['.board._ngcontent-%ID%{width:500px;height:512px;border-left:90px;margin-inline:auto;position:relative}img._ngcontent-%ID%{max-width:100%;max-height:100%}.name._ngcontent-%ID%{width:464px;margin-inline:auto;font-size:large;color:red;text-align:center}'];

@@ -1,0 +1,1 @@
+final List<dynamic> styles = ['.button._ngcontent-%ID%{background-color:green;color:white;text-align:center;display:inline-block;border-radius:100%;position:absolute}'];
